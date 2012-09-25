@@ -1,8 +1,8 @@
 Sociedade Esportiva Palmeiras
 =============================
 
-Código fonte do movimento #DiretasJáSEP
----------------------------------------
+Código fonte do hotsite do movimento #DiretasJáSEP
+--------------------------------------------------
 
 Fique por dentro do movimento e da mídia palestrina:
 * Facebook: https://www.facebook.com/diretas.palmeiras
